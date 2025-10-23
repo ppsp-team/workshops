@@ -1,11 +1,23 @@
 
-# AI & Sleep — Summer-School 2025  
+# AI & Sleep — Summer School 2025  
 > Hands-on Workshop · **8** Jupyter Notebooks
+
+## Workshop Information
+
+**Event:** [Canadian Sleep Network Summer School 2025](https://reseausommeil.ca/DOC/Programme-EcoleEte-2025.pdf)  
+**Date:** June 2025  
+**Duration:** 90 minutes  
+**Location:** Québec, Canada  
+**Language:** English (with French support)
+
+---
+
+## Overview
 
 Bienvenue ! This README gathers everything you need **before** arriving at the
 90-minute workshop. Follow the steps for your operating system and
-you’ll be ready to run all notebooks offline — the data are already bundled
-inside the repo (`./data/`).
+you'll be ready to run all notebooks offline — the data are already bundled
+inside the repo (`./data/`).
 
 ---
 
