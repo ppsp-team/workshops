@@ -4,7 +4,7 @@
 **Instructor:** Guillaume Dumas (Université de Montréal)  
 **Duration:** 1 hour  
 
-Hands-on workshop on multi-brain hyperscanning analysis (EEG, MEG, fNIRS).
+Hands-on workshop on multi-brain hyperscanning analysis (EEG, MEG).
 
 ## Installation
 
